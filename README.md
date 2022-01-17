@@ -1,3 +1,3 @@
 # My-restaurant
 
-![Hamzeh restaurant ](img/resturnt.png)
+![Hamzeh restaurant ](restaurant.png)
